@@ -1,4 +1,4 @@
-# spotify-listening-analysis-
+# spotify-listening-analysis
 Personal Spotify Streaming Analysis via Last.fm export 
 
 
